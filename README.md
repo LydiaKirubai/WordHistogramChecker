@@ -12,11 +12,11 @@ This Python program reads a block of text and generates a histogram showing the 
 Input:
 
 ```text
-The quick brown fox jumps over the lazy dog. The dog was not amused.
+The quick brown fox jumps over the lazy dog. The dog was not amused.```
 
 
 Output:
 
-the: *** (3)
+```the: *** (3)
 dog: ** (2)
-quick: * (1)
+quick: * (1)```
